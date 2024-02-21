@@ -7,13 +7,13 @@
 Check out my [portfolio](https://divay292.github.io/portfolio/) 
 
 # My Tech stack
-Languages: ![Static Badge](https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Java-orange?logoColor=brown) ![Static Badge](https://img.shields.io/badge/C-blue?logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML5-purple?logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23264de4?logo=CSS3) ![Static Badge](https://img.shields.io/badge/Verilog-orange)
- ![Static Badge](https://img.shields.io/badge/javascript-black?logo=javascript)
+Languages: ![Static Badge](https://img.shields.io/badge/PYTHON-blue?logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/JAVA-orange?logoColor=brown) ![Static Badge](https://img.shields.io/badge/C-blue?logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML5-purple?logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23264de4?logo=CSS3) ![Static Badge](https://img.shields.io/badge/VERILOG-orange)
+ ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript)
 
-Libraries/Tools: ![Static Badge](https://img.shields.io/badge/git-orange?logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white) ![Static Badge](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/node.JS-green?logo=nodedotjs&logoColor=white)
+Libraries/Tools: ![Static Badge](https://img.shields.io/badge/GIT-orange?logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/LINUX-blue?logo=linux&logoColor=white) ![Static Badge](https://img.shields.io/badge/DOCKER-blue?logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/NODE.JS-green?logo=nodedotjs&logoColor=white)
 
 # Connect with me on
-[![Static Badge](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/divaydeep-singh-b7432b196/)
 
 
